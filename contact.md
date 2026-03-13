@@ -13,3 +13,5 @@ For questions, bug reports, feature requests, or any support needs:
 I usually respond within 1-2 business days. Feel free to include details like your iOS version, app version, or screenshots if relevant.
 
 Thank you for using Pomodoro.FM!
+
+[← Back to Support Home](./)
