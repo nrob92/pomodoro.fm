@@ -2,8 +2,7 @@
 title: Pomodoro.FM Support
 ---
 
-Support for Pomodoro.FM.  
-Pomodoro.FM is a focus timer for iPhone with customizable focus and break sessions, ambient audio, notifications, Live Activity, and widgets.
+Pomodoro.FM is a focus timer for iPhone with customizable focus and break sessions, ambient audio, notifications, Live Activity, and widget.
 
 ## Quick Links
 - [Contact & Support](./contact)  
