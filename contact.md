@@ -14,4 +14,4 @@ I usually respond within 1-2 business days. Feel free to include details like yo
 
 Thank you for using Pomodoro.FM!
 
-[← Back to Support Home](./)
+[← Back to Home](./)
