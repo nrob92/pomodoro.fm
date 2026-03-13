@@ -21,3 +21,5 @@ Pomodoro.FM does not use your information for advertising or cross-app tracking.
 Data stored locally on your device remains there until you delete it in the app or remove the app from your device. Support emails are retained only as long as needed to respond and keep basic support records.
 
 If you have questions about this Privacy Policy, contact roycerobins95@gmail.com.
+
+[← Back to Home](./)
